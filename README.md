@@ -3,13 +3,15 @@
 
 1. 设计图
 
-   ![数据库：学生管理系统ER图--实体描述 drawio](https://github.com/Ninot1Quyi/Student-management-system/assets/73424304/6494b852-8a6c-4a54-ab89-1b58945f3b20)
-
    ER图：
 
    ![image](https://github.com/Ninot1Quyi/Student-management-system/assets/73424304/c668c207-5db4-47b9-817b-d3d647534b08)
 
-2. 程序运行截图
+   实体设计：
+
+   ![数据库：学生管理系统ER图--实体描述 drawio](https://github.com/Ninot1Quyi/Student-management-system/assets/73424304/6494b852-8a6c-4a54-ab89-1b58945f3b20)
+
+3. 程序运行截图
 
 2.1 登录页面：
 
